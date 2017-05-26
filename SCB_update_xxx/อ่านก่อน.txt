@@ -1,0 +1,18 @@
+﻿###############################
+ก่อนที่จะทำการอัพไฟล์ขึ้น Host
+กรุณาแก้ไข Config ฐานข้อมูล
+โดยเข้าไปที่ application/config
+ไฟล์ชื่อว่า database.php
+บรรทัดที่ 68 69 70
+'username' => 'root',
+'password' => 'password',
+'database' => 'db_name',
+เปลี่ยนตาม Config ที่ได้ตั้งไว้ครับ
+
+---------------------
+ฐานข้อมูลอยู่ใน Folder DB/bank.sql
+
+
+
+
+
